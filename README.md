@@ -4,7 +4,7 @@
 
 ![text](https://raw.githubusercontent.com/ArthurYamori/lojinha/main/Preview_site/logo.png)
 
-Pretendo finalizar o site, deixalo mais completo
+Pretendo finalizar o site, deixá-lo mais completo
 no momento ele consiste em 4 etapas:
 
 1. Animações
